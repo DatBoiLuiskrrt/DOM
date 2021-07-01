@@ -1,5 +1,5 @@
 # DOM 1
-
+first commit 
 Guided project for **DOM 1** Module.
 
 In this project we will learn how to use a variety of DOM selectors and manipulate the DOM imperatively.
